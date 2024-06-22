@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "728602568840",
+    "firebase_url": "https://kyshatbmozno-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "kyshatbmozno",
+    "storage_bucket": "kyshatbmozno.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728602568840:android:7128ece1ec4a0c67d4973d",
+        "android_client_info": {
+          "package_name": "com.example.kyshatbmozno"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGgv3mVOIS3htVAWZuuBfeoPMyK1h5Nmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728602568840:android:d733e5b24e266de3d4973d",
+        "android_client_info": {
+          "package_name": "com.example.kyshatbmoznodeliverer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGgv3mVOIS3htVAWZuuBfeoPMyK1h5Nmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728602568840:android:cb4ce8922c2dfa1bd4973d",
+        "android_client_info": {
+          "package_name": "com.example.kyshatbmoznouser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGgv3mVOIS3htVAWZuuBfeoPMyK1h5Nmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
